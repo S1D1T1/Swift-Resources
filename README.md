@@ -7,8 +7,8 @@ https://gavinw.me/swift-macos/
 
 
   
-https://www.swiftuifieldguide.com
-
+https://www.swiftuifieldguide.com  
+https://swiftpackageindex.com/tbaranes/SwiftyUtils
 
 ### HTTP Client
 [swift-openapi-runtime](https://github.com/apple/swift-openapi-runtime)  
@@ -21,6 +21,9 @@ https://www.swiftuifieldguide.com
 [Huggingface](https://huggingface.co/spaces/enzostvs/hub-api-playground)
 
 ### Window Management
+
+https://github.com/happycodelucky/SwiftUIWindowBinder  
+https://swiftpackageindex.com/ChimeHQ/WindowTreatment
 
 - check in my singlewindow
 
@@ -46,6 +49,10 @@ https://swiftpackageindex.com/malcommac/SwiftDate
 ### Display Sheets:  
 https://github.com/SwiftUIX/SwiftUIX/wiki/Dynamic-Presentation
 
+### Misc
+[prefs](https://swiftpackageindex.com/sindresorhus/Defaults)  
+[string format](https://developer.apple.com/library/archive/documentation/CoreFoundation/Conceptual/CFStrings/formatSpecifiers.html)  
+[Formatters for the concise display of Numbers, Currency, and Time Intervals](https://github.com/openalloc/SwiftCompactor)  
 
 ## Apps to tweak
 

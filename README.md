@@ -1,8 +1,12 @@
 # Swift-Resources
 collection of swift packages &amp; resources
 
+# Holy Shit. Sample Code!
+https://gavinw.me/swift-macos/
 
 
+
+  
 https://www.swiftuifieldguide.com
 
 

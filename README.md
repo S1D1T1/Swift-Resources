@@ -1,7 +1,7 @@
 # Swift-Resources
 collection of swift packages &amp; resources
 
-# Holy Shit. Sample Code!
+# Holy Shit. Sample Code
 https://gavinw.me/swift-macos/
 
 
@@ -53,6 +53,8 @@ https://github.com/SwiftUIX/SwiftUIX/wiki/Dynamic-Presentation
 [prefs](https://swiftpackageindex.com/sindresorhus/Defaults)  
 [string format](https://developer.apple.com/library/archive/documentation/CoreFoundation/Conceptual/CFStrings/formatSpecifiers.html)  
 [Formatters for the concise display of Numbers, Currency, and Time Intervals](https://github.com/openalloc/SwiftCompactor)  
+[manipulate color](https://github.com/yannickl/DynamicColor)  
+
 
 ## Apps to tweak
 

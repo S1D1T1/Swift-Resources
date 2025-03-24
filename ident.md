@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     CheckLoc([Source Location])
     

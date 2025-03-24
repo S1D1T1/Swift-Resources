@@ -9,7 +9,7 @@ This decision tree serves multiple purposes:
 1. **For library users**: Understanding why a particular format was identified
 2. **For library contributors**: Clear guidelines for expanding format support
 3. **For platform developers**: Insight into how their platform is identified
-4. **For standards development**: Documenting the current ad-hoc identification approach
+4. **Encouraging standards **: Documenting the current ad-hoc identification approach
 
 ## The Detection Algorithm
 

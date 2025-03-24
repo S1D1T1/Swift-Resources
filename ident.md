@@ -20,9 +20,9 @@ graph TD;
 
     D --> M["All contain JSON"]
     M -->|Chunk name contains 'invoke'| N["InvokeAI"]
-    M -->|Chunk name contains 'comf' OR JSON contains 'workflow' key OR JSON contains 'prompt'| O["ComfyUI"]
+    M -->|Chunk name contains 'comf' OR JSON contains 'workflow' key OR JSON contains 'prompt' | O["ComfyUI"]
     M --> P["Chunk name is 'parameters'"]
-    P -->|JSON["version"] contains 'fooocus'| Q["Fooocus"]
+P -->|"JSON version contains 'fooocus'"| Q["Fooocus"]
     P -->|Otherwise| R["A1111 (Stable Diffusion WebUI)"]
 
     E -->|Software field contains 'midjourney'| L
@@ -30,3 +30,4 @@ graph TD;
     E -->|RawText contains '--'| L
 
     F --> S["Image dimensions synthesized as parameters"]
+
